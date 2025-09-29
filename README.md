@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 `jl13869` Jason Liu ([jsl1114](https://github.com/jsl1114))  
 `jc11462` Jack Chen ([a247686991](https://github.com/a247686991))  
-`yl9778` Krystal Lin ([SnazzyBeatle115](https://github.com/SnazzyBeatle115))  
+`yl9778` Krystal Lin ([krystalll-0](https://github.com/krystalll-0))  
 `bh2514` Natalie Han ([nateisnataliehan](https://github.com/nateisnataliehan))  
 `ag8969` Angela Gao ([Xuan4781](https://github.com/Xuan4781))  
 
