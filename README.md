@@ -43,7 +43,6 @@ Use an app that minimizes coordination effort by automatically generating meetin
 
 “Even when someone says they will come, sometimes they cancel last minute, which ruins the whole plan.”
 
-
 ## Product Vision Statement
 
 For young people in New York who often struggle to find companions for plans, **PlusOne** is a mobile app that quickly and safely pairs them with reliable pals so their spontaneous plans can become real experiences.
